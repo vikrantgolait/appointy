@@ -1,0 +1,225 @@
+.navbar{
+	background: #ffffff;
+}
+.nav-link{
+	font-size: 14px;
+	color:grey;
+}
+.margin{
+    margin-top:200px;    
+    margin-bottom:20px;
+}
+
+.themeBtn {
+    background:#D03168;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 0.8;
+    padding: 18px 50px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+	margin-top:-10px;    
+    margin-bottom:10px;
+
+}
+.row{
+	margin-top: 150px;
+}
+.row h1{
+	margin-top: 20px;
+	font: bold 30px Arial , sans-serif ;
+}
+.row p{
+
+	margin-top: 40px;
+
+	font:   18px Arial , sans-serif ;
+	color:grey;
+}
+.marginn{
+    margin-top:0px;    
+    margin-bottom:20px;
+}
+
+.themeBtnn {
+    background:#D03168;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 0.8;
+    padding: 18px 50px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+	margin-top:-10px;    
+    margin-bottom:0px;
+}
+.container h2{
+	margin-top: 200px;
+	text-align: center;
+	font: bold 30px Arial , sans-serif ;
+
+}
+.texting p{
+	margin-left: 100px;
+	margin-right: 40px;
+	text-align: center ;
+	font-size: 20px;
+	color: grey;
+
+}
+.fields h6{
+	font: bold 20px Arial , sans-serif ;
+	margin-top:30px;
+	margin-bottom: 0px;
+
+
+}
+
+.fields p{
+	margin-top: 15px;
+	font: 17px Arial , sans-serif ;
+}
+.fields h1{
+	margin-top: 200px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center ;
+	font: bold 35px Arial , sans-serif ;
+	
+}
+.appon p{
+	margin-top: 10px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center ;
+	font:  20px Arial , sans-serif ;
+}
+.boxes h6{
+	font: bold 22px Arial , sans-serif ;
+	margin-top:-5px;
+	margin-left:10px;
+
+}
+.boxes p{
+	font: 20px Arial , sans-serif ;
+	margin-top: 20px;
+
+}
+.parag h6{
+	font: bold 17px Arial , sans-serif ;
+}
+.parag p{
+	
+	font: 15.5px Arial , sans-serif ;
+}
+.parag h1{
+	margin-top: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center ;
+	font: bold 32px Arial , sans-serif ;
+}
+.sche h6{
+	font: bold 20px Arial , sans-serif ;
+	margin-top:30px;
+	margin-bottom: 0px;
+
+
+}
+
+.sche p{
+	margin-top: 15px;
+	font: 17px Arial , sans-serif ;
+}
+.sche h1{
+	margin-top: 200px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center ;
+	font: bold 35px Arial , sans-serif ;
+	
+}
+
+
+
+.themeBtnnn {
+    background:	#F5F5F5;
+    color: #000000 !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 0.8;
+    padding: 12px 20px;
+    text-transform: capitalize;
+    border-radius: 0.5px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+	margin-top:-10px;    
+    margin-bottom:10px;
+
+}
+.themeBtnnn1 {
+	border-color: #fff000;
+    background:	#fff;
+    color: #D03168 !important;
+    display: inline-block;
+    font-size: bold 20px;
+    border: 2px solid red;
+    color: red;
+    font-weight: 400;
+    height: 50px;
+    line-height: 0.8;
+    padding: 12px 20px;
+    text-transform: capitalize;
+    border-radius: 0.5px;
+    letter-spacing: 0.5px;
+	border:1px !important;
+	cursor:pointer;
+	border-radius:100px;
+	margin-top:-10px;    
+    margin-bottom:10px;
+
+
+
+}
+.themeBtnnn2 {
+    background:	#F5F5F5;
+    color: #000000 !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 0.8;
+    padding: 12px 40px;
+    text-transform: capitalize;
+    border-radius: 0.5px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+	margin-top:-10px;    
+    margin-bottom:10px;
+
+}
+.container.col-xs-12{
+	color: grey;
+}
